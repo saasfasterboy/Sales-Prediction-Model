@@ -10,15 +10,12 @@ Gather historical sales data.
 Preprocess the data:
 Handle missing values.
 Encode categorical variables.
-Example datasets can be found here.
 Train regression models:
 Linear Regression
 Random Forest Regression
 Evaluate model performance and make predictions.
 Task Submission
 Host the code on a public GitHub Repository.
-Record a video showing the code and output, then post it on YouTube.
-Share the links to your GitHub and YouTube as a post on your LinkedIn profile.
 Submit the LinkedIn link in the Task Submission Form when shared.
 Technologies Used
 Python
